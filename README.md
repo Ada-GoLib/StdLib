@@ -11,7 +11,8 @@ The intention is to provide a clear and useful functionally tried and tested res
 Adaists that will work with any runtime. Whilst also providing a learning resource.
 
 The code in this repository ia also intended to depend upon and serve as a form of  
-documentation for the Ada and GNAT standard libraries.
+documentation for the GNAT standard library whose code is GPL3 with the GCC runtime  
+library exception.
 
 Any code which requires a particular runtime will only be located within the folder  
 ravenscar_plus. 
