@@ -10,7 +10,7 @@ fairly extensive Go documentation and examples.
 The intention is to provide a clear and useful functionally tried and tested resource for  
 Adaists that will work with any runtime. Whilst also providing a learning resource.
 
-The code in this repository ia also intended to depend upon and serve as a form of 
+The code in this repository ia also intended to depend upon and serve as a form of  
 documentation for the Ada and GNAT standard libraries.
 
 Any code which requires a particular runtime will only be located within the folder  
